@@ -1,4 +1,4 @@
-# Hierarchical Device Data Dashboard (2031 Vision)
+# Hierarchical Device Data Dashboard
 
 A next-generation, AI-augmented feature for the Belden Horizon platform that enables users to navigate and visualize operational data across the complete data hierarchy using immersive spatial interfaces, natural language commands, and autonomous intelligence.
 
