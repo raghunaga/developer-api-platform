@@ -1,0 +1,4 @@
+# file: /Users/arun.prasath.edwin/Documents/work/protypes/customer-device-topology/app/state/conflict_resolver.py
+# hypothesis_version: 6.141.1
+
+['ConflictResolver', 'cell', 'child', 'concurrent_write', 'conflict_type', 'crdt_merge', 'device', 'devices', 'key', 'local_value', 'local_wins', 'node_id', 'parent', 'reasoning', 'remote_value', 'remote_wins', 'resolution_history', 'resolved_value', 'strategy', 'timestamp', 'timestamp_based', 'timestamp_conflict', 'unknown']

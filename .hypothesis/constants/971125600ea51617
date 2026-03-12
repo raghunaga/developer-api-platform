@@ -1,0 +1,4 @@
+# file: /Users/arun.prasath.edwin/Documents/work/protypes/customer-device-topology/app/db/graph_sync.py
+# hypothesis_version: 6.141.1
+
+['Customer', 'DataStream', 'Device', 'Gateway', 'HAS_CUSTOMER', 'HAS_DATA_STREAM', 'HAS_DEVICE', 'HAS_GATEWAY', 'HAS_SITE', 'HAS_USER', 'Site', 'Tenant', 'User', 'created_at', 'data_type', 'device_type', 'gateway_type', 'id', 'identifier', 'location', 'name', 'role', 'status', 'unit']

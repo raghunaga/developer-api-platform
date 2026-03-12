@@ -1,0 +1,4 @@
+# file: /Users/arun.prasath.edwin/Documents/work/protypes/customer-device-topology/app/services/cache_service.py
+# hypothesis_version: 6.141.1
+
+['created_at', 'data', 'expired_entries', 'expires_at', 'invalid_entries', 'key', 'total_entries', 'updated_at', 'valid_entries', 'version']

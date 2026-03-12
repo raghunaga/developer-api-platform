@@ -1,0 +1,4 @@
+# file: /Users/arun.prasath.edwin/Documents/work/protypes/customer-device-topology/app/db/repositories.py
+# hypothesis_version: 6.141.1
+
+['active', 'cache', 'conflict', 'customer', 'data_conflict', 'data_stream', 'device', 'error', 'failed', 'gateway', 'idle', 'pending', 'site', 'sync_queue', 'sync_status', 'synced', 'syncing', 'tenant', 'user']

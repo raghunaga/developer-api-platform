@@ -1,0 +1,51 @@
+[build-system]
+requires = ["setuptools>=65.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hierarchical-device-dashboard"
+version = "0.1.0"
+description = "Hierarchical Device Data Dashboard - 2031 Vision"
+requires-python = ">=3.10"
+dependencies = [
+    "pydantic>=2.0",
+    "sqlalchemy>=2.0",
+    "alembic>=1.12",
+    "python-dotenv>=1.0",
+    "pydantic-settings>=2.0",
+    "faker>=18.0",
+    "click>=8.0",
+    "hypothesis>=6.80",
+]
+
+[project.scripts]
+dashboard-cli = "app.cli:cli"
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.4",
+    "pytest-cov>=4.1",
+    "black>=23.0",
+    "isort>=5.12",
+    "flake8>=6.0",
+    "mypy>=1.5",
+]
+
+[tool.setuptools]
+packages = ["app"]
+
+[tool.setuptools.package-data]
+app = ["py.typed"]
+
+[tool.black]
+line-length = 100
+
+[tool.isort]
+profile = "black"
+line_length = 100
+
+[tool.mypy]
+python_version = "3.10"
+warn_return_any = true
+warn_unused_configs = true
+disallow_untyped_defs = false

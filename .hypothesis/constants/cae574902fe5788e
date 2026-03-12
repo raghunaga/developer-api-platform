@@ -1,0 +1,4 @@
+# file: /Users/arun.prasath.edwin/Documents/work/protypes/customer-device-topology/app/services/sync_queue_service.py
+# hypothesis_version: 6.141.1
+
+['action_type', 'created_at', 'entity_id', 'entity_type', 'failed', 'failed_entries', 'id', 'idle', 'pending', 'pending_entries', 'priority', 'retry_count', 'status', 'total_queue_size', 'unresolved_conflicts', 'update_conflict']

@@ -1,0 +1,4 @@
+# file: /Users/arun.prasath.edwin/Documents/work/protypes/customer-device-topology/app/services/event_streaming.py
+# hypothesis_version: 6.141.1
+
+[0.01, 1.0, 1000, 10000, 'Event', 'anomaly_detected', 'critical', 'data', 'device_id', 'device_metric', 'device_status_change', 'event_id', 'event_type', 'group_id', 'high', 'is_running', 'low', 'max_processing_rate', 'max_queue_size', 'medium', 'prediction_update', 'queue_size', 'severity', 'timestamp', 'topics', 'value']

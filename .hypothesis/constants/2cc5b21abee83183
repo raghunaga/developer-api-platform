@@ -1,0 +1,4 @@
+# file: /Users/arun.prasath.edwin/Documents/work/protypes/customer-device-topology/app/models/entities.py
+# hypothesis_version: 6.141.1
+
+[100, 255, 512, 'Customer', 'DataStream', 'Device', 'Gateway', 'Site', 'Tenant', 'User', 'active', 'all, delete-orphan', 'cache_entries', 'customer', 'customers', 'customers.id', 'data_conflicts', 'data_streams', 'device', 'devices', 'devices.id', 'gateway', 'gateways', 'gateways.id', 'idle', 'online', 'pending', 'site', 'sites', 'sites.id', 'sync_queue_entries', 'sync_status', 'tenant', 'tenants', 'tenants.id', 'users']

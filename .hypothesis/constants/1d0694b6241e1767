@@ -1,0 +1,4 @@
+# file: /Users/arun.prasath.edwin/Documents/work/protypes/customer-device-topology/app/db/database.py
+# hypothesis_version: 6.141.1
+
+[3600, ':memory:', 'check_same_thread', 'connect', 'max_overflow', 'pool_pre_ping', 'pool_recycle', 'pool_size', 'sqlite']
